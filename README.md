@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+    这是CaiNiaoMing建立的第一个 repository！
