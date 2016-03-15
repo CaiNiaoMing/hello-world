@@ -29,5 +29,8 @@ func (c App) Form() revel.Result {
 	revel.INFO.Printf("userName:%s,password:%s\n", UserName, Password)
 	//返回空
 	return nil
+}
 
+func (c App) showVersion() revel.Result {
+	return nil
 }
