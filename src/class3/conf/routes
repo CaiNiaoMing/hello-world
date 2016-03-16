@@ -8,6 +8,9 @@ GET     /                                       App.Index
 GET     /help                                   App.Help
 POST    /form                                   App.Form 
 
+GET     /ng/note                                       Ng.Note
+GET     /ng/index                                       Ng.Index
+
 # Ignore favicon requests
 GET     /favicon.ico                            404
 
